@@ -74,4 +74,3 @@ app.delete('/api/tasks/:id', async (req, res) => { try { await Task.findByIdAndD
 app.listen(PORT, () => {
   console.log(`Servidor corriendo en http://localhost:${PORT}`);
 });
-
