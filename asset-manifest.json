@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.js": "/STC_APP/static/js/main.b201acb3.js",
+    "main.js": "/STC_APP/static/js/main.ec599a7b.js",
     "index.html": "/STC_APP/index.html",
-    "main.b201acb3.js.map": "/STC_APP/static/js/main.b201acb3.js.map"
+    "main.ec599a7b.js.map": "/STC_APP/static/js/main.ec599a7b.js.map"
   },
   "entrypoints": [
-    "static/js/main.b201acb3.js"
+    "static/js/main.ec599a7b.js"
   ]
 }
