@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main.js": "/STC_APP/static/js/main.7fe3aa92.js",
+    "index.html": "/STC_APP/index.html",
+    "main.7fe3aa92.js.map": "/STC_APP/static/js/main.7fe3aa92.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.7fe3aa92.js"
+  ]
+}
