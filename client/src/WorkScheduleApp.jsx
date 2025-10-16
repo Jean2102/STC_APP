@@ -20,7 +20,7 @@ const App = () => {
   const [contactFilter, setContactFilter] = useState('todos');
   const [currentDate, setCurrentDate] = useState(new Date());
   
-  const API_URL = 'https://servicio-tecnico-api.onrender.com/api';
+  const API_URL = 'https://stc-app.onrender.com/api';
 
   useEffect(() => {
     fetch(`${API_URL}/tasks`).then(res => res.json()).then(setTasks).catch(err => console.error("Error fetching tasks:", err));
